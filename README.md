@@ -2,6 +2,8 @@
 Speech transcription English and Simplified Chinese  Based on openai/whisper
 # 简体中文实时语音转写软件使用说明
 
+## 部署到本地，windoows系统。
+下载模型把models文件夹放到_internal文件夹内  模型下载链接:https://huggingface.co/john2223/medium-model/tree/main
 ## 软件功能
 
 这款软件能够实时录制和转写语音，自动将任何中文（包括繁体中文）转换为简体中文。无论说话者使用的是什么中文方言或繁体中文表达，都会被自动转换并保存为标准简体中文文本。
